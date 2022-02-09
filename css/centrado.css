@@ -1,0 +1,38 @@
+.centrado{
+ width: 70%;
+ display:block;
+margin:auto;
+margin-top: 38px;
+}
+.centrar{
+text-align: center;
+float: left;
+width: 100%;
+color: white;
+font-size: 25px;
+}
+.fondo{
+	background-image: url(../imagenes/pasto/pasto_fondo.jpg);
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.quitar-fondo{
+  filter: brightness(1.1);
+  mix-blend-mode: multiply;
+}
+.centrar1{
+width: 65%;
+ display:block;
+margin:auto;
+margin-top: 38px;
+}
+.boton_center{
+text-align: center;
+float: left;
+width: 100%;
+color: white;
+font-size: 25px;
+
+}
